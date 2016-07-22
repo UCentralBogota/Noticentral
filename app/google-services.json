@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956933867552",
+    "project_id": "firebase-noticentral"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956933867552:android:37573f37c248b62a",
+        "android_client_info": {
+          "package_name": "co.edu.ucentral.noticentral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956933867552-j89kllet8m4lnprdm2gc3p21c76e1730.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.ucentral.noticentral",
+            "certificate_hash": "921DB0C2E4D5A6A92263F5448A5C30A9970FDA99"
+          }
+        },
+        {
+          "client_id": "956933867552-eu1hpfancm0j6jfs3lsae48te4olk1u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA34ZoMBvvG8Ip1lkefHrhKzcH3jVNKR14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
